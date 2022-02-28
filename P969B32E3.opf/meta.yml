@@ -1,0 +1,16 @@
+id: P969B32E3
+initial_creation_type: input
+source_metadata:
+  title: Introductions
+  language: bo
+  description: 'A series of introductory material including forewords and prefaces
+    (gleng brjod; sngon brjod; ''go brjod; gleng gzhi):'
+  volume:
+    984747526507477b9da809c455dd2818:
+      title: Introduction to The Excellent Path of Devotion
+      parent: Introductions
+    cf75da31d9f74531aa6ea6eda68fa89f:
+      title: Verses of Homage
+      parent: Prologues
+created_at: '2022-03-01T03:59:42.576050'
+last_modified_at: '2022-03-01T03:59:42.576052'
